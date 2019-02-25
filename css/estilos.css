@@ -1,0 +1,19 @@
+body{
+    font-family: 'Chivo', sans-serif;  
+    background-attachment: fixed;
+    background-color: #CDD497;
+    margin: 20px;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+td{
+    border: 2px solid black;  
+}
+
+th{
+    border: 2px solid black;  
+}
+    
